@@ -1,0 +1,11 @@
+.rodapé{
+        display: inline-block;
+        margin-left: 16px;
+        height: 50px;
+        color: #8c52ff;
+}
+.rodapé ul li{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: fantasy;
+}
